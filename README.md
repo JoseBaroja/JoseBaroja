@@ -8,16 +8,27 @@ Mi trabajo se vincula con la narrativa, la literatura contemporánea, la lectura
 
 ## Proyectos
 
-### Bibliografía y registros de autoridad
+### Bibliografía, catálogos y registros de autoridad
 
-Proyecto documental dedicado a reunir y verificar las publicaciones de José Baroja, sus registros en bibliotecas nacionales e internacionales y sus identificadores bibliográficos y de autoridad.
+Proyecto documental para reunir y verificar mis publicaciones, registros en bibliotecas nacionales e internacionales e identificadores bibliográficos y de autoridad.
 
-[Consultar el repositorio](https://github.com/JoseBaroja/jose-baroja-bibliografia)
+[Consultar el repositorio bibliográfico](https://github.com/JoseBaroja/jose-baroja-bibliografia)
+
+### Publicaciones y colaboraciones
+
+Índice de cuentos, artículos, ensayos y colaboraciones publicadas, con enlaces a sus medios de aparición.
+
+[Consultar el índice de publicaciones](https://github.com/JoseBaroja/jose-baroja-bibliografia/blob/main/publicaciones/README.md)
 
 ## Sitios y perfiles
 
 - [Sitio oficial](https://josebaroja.com)
+- [ORCID](https://orcid.org/0000-0002-2850-0029)
 - [Academia.edu](https://uc-cl.academia.edu/Jos%C3%A9Baroja)
+- [LinkedIn](https://www.linkedin.com/in/josebaroja/)
+- [Instagram](https://www.instagram.com/escritor_josebaroja/)
+- [Facebook](https://www.facebook.com/escritor.jose.baroja)
+- [Podcast: Los registros de José Baroja](https://open.spotify.com/show/7HBqmXj3Wy0ff8GU7IXoYE)
 
 ## Formación académica
 
